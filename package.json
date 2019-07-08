@@ -18,14 +18,14 @@
     "url": "http://testdouble.com"
   },
   "dependencies": {
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.11",
     "resolve": "^1.7.1"
   },
   "devDependencies": {
     "core-assert": "^0.2.1",
     "is-number": "^3.0.0",
     "standard": "^10.0.3",
-    "teenytest": "^5.0.2"
+    "teenytest": "^5.2.0"
   },
   "standard": {
     "globals": [
